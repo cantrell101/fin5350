@@ -5,7 +5,7 @@ Created on Sat Oct 29 21:19:10 2016
 @author: Carissa
 """
 
-def is_nugget_number(can):
+def is_nugget_number():
     n = [0]
     can = 6
     inarow = 0
