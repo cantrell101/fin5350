@@ -4,10 +4,11 @@ Author: Carissa Cantrell
 output: pdf_document
 geometry: margin = 1in
 fontsize: 12pt
-spacing: double 
+linestretch: 2
 ---
 
 ```
+
 #What Should Financial Economists do?
 
 Financial economists play a tricky balancing act between the field of economics, a world of theories, and finance, which is a game of numbers.  To fully understand what a financial economist should be doing I believe it is useful to look both at what they are, as well as what they are not.  The main job of financial economists is to serve as arbitragers for the market in an effort to improve market efficiency.  As Hayek emphasized in his paper "The Pretense of Knowledge" the job of economists is certainly not to specifically predict or make the market behave in a certain way to better suit humans.  The market works best when people don't try to interfere too much with the underlying mechanisms.  Financial economists are mainly observers that seek to increase market efficiency through arbitrage.
