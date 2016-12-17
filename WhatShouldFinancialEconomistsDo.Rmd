@@ -1,0 +1,63 @@
+---
+title: "WhatShouldAFinancialEconomistDo"
+Author: Carissa Cantrell
+output: pdf_document
+geometry: margin = 1in
+fontsize: 12pt
+spacing: double 
+---
+
+```
+#What Should Financial Economists do?
+
+Financial economists play a tricky balancing act between the field of economics, a world of theories, and finance, which is a game of numbers.  To fully understand what a financial economist should be doing I believe it is useful to look both at what they are, as well as what they are not.  The main job of financial economists is to serve as arbitragers for the market in an effort to improve market efficiency.  As Hayek emphasized in his paper "The Pretense of Knowledge" the job of economists is certainly not to specifically predict or make the market behave in a certain way to better suit humans.  The market works best when people don't try to interfere too much with the underlying mechanisms.  Financial economists are mainly observers that seek to increase market efficiency through arbitrage.
+
+##What Financial Economists Are
+
+###Pattern Prediction
+
+The physical sciences are confined to theories that can be back by mathematics.  On the other hand, the theories of social sciences are much more general.  In the words of Hayek, "Without such specific information we shall be confined to what I have called on another occasion mere pattern predictions- predictions of some of the general attributes of the structure that will form themselves, but not containing specific statements about the individual elements of which the structure will be made up (Hayek,1989)".  Thus, lacking numbers we are first confined to looking for patterns in the market.  It appears that financial economists are first economists, and must look for patterns to that guide behavior within the market.  They are then able to use given patterns along with the given prices of the market in order to work in the Finance portion of their occupation to move the market toward efficiency.  
+
+###Arbitrage
+
+Arbitrage is one pattern that surfaces repeatedly in a world of imperfect markets that are moving toward efficiency.  It is insensible for prices of the same good to differ in separate locations.  Therefore, individuals move the market toward efficiency by buying at the lower priced location, selling at the higher priced location, and gaining the difference.  The market is then able to move toward efficiency as goods are moved to where they are more highly valued (value being indicated by the prices individuals are willing to pay).  
+
+One role that financial economists play is to serve as arbitragers and move the market toward efficiency.  For example, it has long been clear that the stock market is not entirely efficient.  Prices are constantly changing as individuals buy and sell in an attempt to gain a profit.  However, the market is a complex thing with so many individuals interacting and it may often be unclear whether prices were more efficient before or after a change.  Financial economists are able to act in the market through high speed trading.  Computer algorithms are able to complete many more trades than humans, and without the irrationality that humans display.  The market gains greater efficiency as more trades occur which decreases the spread and draws prices closer to their equilibrium value.  Arbitrage is an example of a recurring and incredibly meaningful pattern found in financial markets.  The following sections will endeavor to explain methods of pattern prediction, or ways that scientists and financial economists alike seek to find patterns.
+
+###Machine Learning
+
+Machine Learning is another subset of pattern prediction that entails the use of computer models for finding clusters in large datasets.  Machine learning is particularly important because the code can allow the program to be either supervised or unsupervised.  Machine learning is poised to have enormous effects in the world of financial economics due to its ability to assess such large quantities of data.    
+
+###ACE
+
+ACE or Agent-Based Computational Economics is another branch of pattern prediction that seeks to use computer programs in an effort to recognize patterns in human behavior. "Agents make decisions-from where to live and work to what to consume and produce-autonomously according to their present condition, past history, state of the local environment, and rules governing their actions (Ye and Lee 2016 in Ye, 2016).  As explained by Ye and Yuri, recognizing patterns between the Millions of individuals.  We can look at how each individual interacts with other individuals as well as how they interact with their environment.  The entire process is simulated by a computer program, and allows economists to interpret relationships between massive amounts of data.  
+
+##What Financial Economists Are Not
+
+###Not Scientists
+
+Economists may be scientists in the aspects that we have theories that evolve over time.  Each theory must have reasoning and logic to back it, and may change as the field progresses.  However, the similarities to scientists end right there. Scientists look for concrete proof found in numbers and facts that back their theory.  On the other hand, economists lean on logic, but are unable to set up tests that prove their theories in the non-theoretical way physical scientists look for. 
+
+###Doctors for the Market
+
+The following imagery is set up to explain the difference I observe between scientists and financial economists.  Imagine a surgeon, a true scientist that has studied the human body for years, and is now able to make assessments based on problems observed within a human body that seem to be having direction repercussions within the body.  Now imagine an economist that recognizes the results of problems within the market.  Say he observes that wages are too high resulting in a shortage of open job positions.   The surgeon, in response to finding a problem is able to complete surgery and find a direction solution.  By contrast, the financial economist should not do anything.  Say he were to impose a ceiling on wages in order to force wages down and create more positions.  This would imminently result in disaster, because the imposed ceiling would likely mean that too few people are willing to work at the imposed wage.  The beauty of the market is that it automatically drifts toward equilibrium without human interaction, in fact it seems that the market is better able to near equilibrium when values are found through trial and error, not imposed.  In the words of Hayek ".a communication system which we call the market, and which turns out to be a more efficient mechanism for digesting dispersed information than any that man has deliberately designed"(Hayek, 1989).
+
+###Creators of the Market
+
+I hope it is now clear to you why financial economists should not attempt to force the market.  Forcing the market is a quick solution that only leads to short term solutions and more problems in the end.  Like a human trying to act as God, when authorities have the power to set the market inefficiency abounds.  True markets with free trade are the only means of drawing near equilibrium.
+
+The market is in a state of disequilibrium because humans are irrational, prone to error, and mess with the market in ways that have irreversible consequence.  I would go as far as to say that all the problems within the market are manmade, and yet as a society we have become dependent upon their existence.  For example, we are continuously attempting to change the level of inflation to better serve us, and recognizing the consequence we continue to change it.  Economist have learned over time to better understand the market, and yet we mainly use our understanding to better try to change things that we should have left alone. 
+
+My understanding of the market is that it behaves best when the underlying principles are left alone.  Humans create the market through interacting, and that is where our job ends.  Humans are not meant to play with the underlying principles of the market, because that mainly seems to solve one problem (and usually only temporarily) at the expense of creating more problems to deal with.  When we don't mess with the market it is able to work properly, allowing goods and services to go to those who will value them most.  It is when we begin to change the underlying principles of the market that we gain temporary solutions at the expense of efficiency.  "Into the determination of these prices and wages there will enter the effects of particular information possessed by every one of the participants in the market process- a sum of facts which in their totality cannot be known to any scientific observer, or to any other single brain.  It is indeed the source of the superiority of the market order, and the reason why, when it is not suppressed by the powers of government, it regularly displaces other types of order, that in the resulting allocation of resources more of the knowledge of particular facts will be utilized, which exists only among uncounted persons, than any one person can possess (Hayek, 1989). Hayek continues by pointing out that as observers of the market we are unable to know the exact numbers associated with equilibrium.  Therefore, we are unable to make the market efficient by artificially placing in it the quantities of equilibrium. 
+
+##Conclusion
+
+While economist are unable to artificially force the market toward equilibrium they do serve the market in other beneficial ways.  Through methods of pattern prediction they are able to find opportunities for arbitrage in the market.  As arbitrage opportunities are exercised spreads narrow and efficiency increases.
+
+#Works Cited
+
+Athey, Susan. "What Will The Impact Of Machine Learning Be On Economics?" Forbes. N.p., 27 Jan. 2016. Web. 16 Dec. 2016.
+
+Hayek, Friedrich A von. "The Pretence of Knowledge." The American Economic Review 79.6 (1989): 3-7. Web. 14 Dec. 2016. <http://pavroz.ru/files/hayekpretence.pdf>.
+
+Ye, Xinyue, and Yuri Mansury. "Behavior-driven agent-based models of spatial systems." The Annals of Regional Science 57 (2016): 271-74. Web. 15 Dec. 2016.
